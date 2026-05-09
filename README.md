@@ -93,6 +93,14 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
+## 🔥 LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vikas317?theme=dark&font=Fira%20Code&ext=heatmap&width=500)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
